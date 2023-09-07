@@ -1,3 +1,5 @@
+// Programa que obtiene la tabla de multiplicar de n numero
+
 #include <stdio.h>
 #include <math.h>
 
